@@ -3,6 +3,7 @@
     {"id":{"name":"spr_tile_sandstoneblock","path":"sprites/spr_tile_sandstoneblock/spr_tile_sandstoneblock.yy",},"order":4,},
     {"id":{"name":"spr_tile_rock","path":"sprites/spr_tile_rock/spr_tile_rock.yy",},"order":3,},
     {"id":{"name":"spr_creature_jimbob","path":"sprites/spr_creature_jimbob/spr_creature_jimbob.yy",},"order":6,},
+    {"id":{"name":"obj_rock","path":"objects/obj_rock/obj_rock.yy",},"order":1,},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"order":0,},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},"order":1,},
     {"id":{"name":"spr_creature_bobjim","path":"sprites/spr_creature_bobjim/spr_creature_bobjim.yy",},"order":7,},
