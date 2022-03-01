@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_creature_jimbob","path":"sprites/spr_creature_jimbob/spr_creature_jimbob.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_creature_jimbob",
     "tags": [],
     "resourceType": "GMSequence",
