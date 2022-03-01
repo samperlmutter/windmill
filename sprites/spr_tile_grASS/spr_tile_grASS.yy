@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_tile_grASS","path":"sprites/spr_tile_grASS/spr_tile_grASS.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_tile_grASS",
     "tags": [],
     "resourceType": "GMSequence",
