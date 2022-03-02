@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_creature_jackolope","path":"sprites/spr_creature_jackolope/spr_creature_jackolope.yy",},
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.3",
     "name": "spr_creature_jackolope",
     "tags": [],
     "resourceType": "GMSequence",
