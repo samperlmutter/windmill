@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_tile_sandstoneblock","path":"sprites/spr_tile_sandstoneblock/spr_tile_sandstoneblock.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_tile_sandstoneblock",
     "tags": [],
     "resourceType": "GMSequence",

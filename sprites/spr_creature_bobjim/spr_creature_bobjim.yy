@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_creature_bobjim","path":"sprites/spr_creature_bobjim/spr_creature_bobjim.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_creature_bobjim",
     "tags": [],
     "resourceType": "GMSequence",
