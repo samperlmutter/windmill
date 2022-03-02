@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_tile_sand","path":"sprites/spr_tile_sand/spr_tile_sand.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_tile_sand",
     "tags": [],
     "resourceType": "GMSequence",
