@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_windmillPart",
+    "path": "sprites/spr_windmillPart/spr_windmillPart.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

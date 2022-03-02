@@ -5,6 +5,7 @@
     {"id":{"name":"obj_jackalope","path":"objects/obj_jackalope/obj_jackalope.yy",},"order":4,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":8,},
     {"id":{"name":"spr_tile_rock","path":"sprites/spr_tile_rock/spr_tile_rock.yy",},"order":2,},
+    {"id":{"name":"spr_windmillPart","path":"sprites/spr_windmillPart/spr_windmillPart.yy",},"order":10,},
     {"id":{"name":"obj_jimbob","path":"objects/obj_jimbob/obj_jimbob.yy",},"order":5,},
     {"id":{"name":"spr_house","path":"sprites/spr_house/spr_house.yy",},"order":9,},
     {"id":{"name":"spr_creature_jimbob","path":"sprites/spr_creature_jimbob/spr_creature_jimbob.yy",},"order":5,},
@@ -30,7 +31,6 @@
   ],
   "isDnDProject": false,
   "isEcma": false,
-  "tutorialPath": "",
   "configs": {
     "name": "Default",
     "children": [],
@@ -62,9 +62,9 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.7.606",
+    "IDEVersion": "2022.2.0.614",
   },
-  "resourceVersion": "1.4",
+  "resourceVersion": "1.5",
   "name": "windmill",
   "tags": [],
   "resourceType": "GMProject",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_house","path":"sprites/spr_house/spr_house.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_house",
     "tags": [],
     "resourceType": "GMSequence",
