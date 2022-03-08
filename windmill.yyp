@@ -2,6 +2,8 @@
   "resources": [
     {"id":{"name":"spr_ui_health_1","path":"sprites/spr_ui_health_1/spr_ui_health_1.yy",},"order":14,},
     {"id":{"name":"spr_tile_sandstoneblock","path":"sprites/spr_tile_sandstoneblock/spr_tile_sandstoneblock.yy",},"order":3,},
+    {"id":{"name":"sh_blacknwhite","path":"shaders/sh_blacknwhite/sh_blacknwhite.yy",},"order":0,},
+    {"id":{"name":"tl_timeline1","path":"timelines/tl_timeline1/tl_timeline1.yy",},"order":0,},
     {"id":{"name":"obj_npc","path":"objects/obj_npc/obj_npc.yy",},"order":2,},
     {"id":{"name":"spr_ui_health_2","path":"sprites/spr_ui_health_2/spr_ui_health_2.yy",},"order":13,},
     {"id":{"name":"obj_jackalope","path":"objects/obj_jackalope/obj_jackalope.yy",},"order":4,},
