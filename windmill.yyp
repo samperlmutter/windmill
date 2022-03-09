@@ -27,6 +27,7 @@
     {"id":{"name":"spr_creature_jackolope","path":"sprites/spr_creature_jackolope/spr_creature_jackolope.yy",},"order":7,},
     {"id":{"name":"spr_tile_grASS","path":"sprites/spr_tile_grASS/spr_tile_grASS.yy",},"order":4,},
     {"id":{"name":"obj_windmillPart","path":"objects/obj_windmillPart/obj_windmillPart.yy",},"order":8,},
+    {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":11,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":10,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":3,},
     {"id":{"name":"spr_tile_sand","path":"sprites/spr_tile_sand/spr_tile_sand.yy",},"order":1,},
@@ -45,8 +46,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
