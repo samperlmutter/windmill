@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},"order":3,},
     {"id":{"name":"spr_ui_health_1","path":"sprites/spr_ui_health_1/spr_ui_health_1.yy",},"order":14,},
     {"id":{"name":"spr_tile_sandstoneblock","path":"sprites/spr_tile_sandstoneblock/spr_tile_sandstoneblock.yy",},"order":3,},
     {"id":{"name":"sh_blacknwhite","path":"shaders/sh_blacknwhite/sh_blacknwhite.yy",},"order":0,},
@@ -8,6 +9,7 @@
     {"id":{"name":"spr_ui_health_2","path":"sprites/spr_ui_health_2/spr_ui_health_2.yy",},"order":13,},
     {"id":{"name":"obj_jackalope","path":"objects/obj_jackalope/obj_jackalope.yy",},"order":4,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":8,},
+    {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},"order":2,},
     {"id":{"name":"spr_tile_rock","path":"sprites/spr_tile_rock/spr_tile_rock.yy",},"order":2,},
     {"id":{"name":"spr_windmillPart","path":"sprites/spr_windmillPart/spr_windmillPart.yy",},"order":10,},
     {"id":{"name":"obj_jimbob","path":"objects/obj_jimbob/obj_jimbob.yy",},"order":5,},
@@ -23,7 +25,11 @@
     {"id":{"name":"spr_creature_bobjim","path":"sprites/spr_creature_bobjim/spr_creature_bobjim.yy",},"order":6,},
     {"id":{"name":"spr_ui_health_4","path":"sprites/spr_ui_health_4/spr_ui_health_4.yy",},"order":11,},
     {"id":{"name":"spr_scoremark","path":"sprites/spr_scoremark/spr_scoremark.yy",},"order":15,},
+    {"id":{"name":"f_text","path":"fonts/f_text/f_text.yy",},"order":1,},
+    {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},"order":12,},
     {"id":{"name":"spr_creature_jackolope","path":"sprites/spr_creature_jackolope/spr_creature_jackolope.yy",},"order":7,},
+    {"id":{"name":"f_title","path":"fonts/f_title/f_title.yy",},"order":0,},
+    {"id":{"name":"obj_lose","path":"objects/obj_lose/obj_lose.yy",},"order":13,},
     {"id":{"name":"spr_tile_grASS","path":"sprites/spr_tile_grASS/spr_tile_grASS.yy",},"order":4,},
     {"id":{"name":"obj_windmillPart","path":"objects/obj_windmillPart/obj_windmillPart.yy",},"order":8,},
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":11,},
@@ -47,6 +53,8 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
+    {"roomId":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -72,7 +80,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.2.1.618",
+    "IDEVersion": "2022.2.0.614",
   },
   "resourceVersion": "1.5",
   "name": "windmill",
