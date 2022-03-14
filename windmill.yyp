@@ -33,6 +33,7 @@
     {"id":{"name":"f_text","path":"fonts/f_text/f_text.yy",},"order":1,},
     {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},"order":12,},
     {"id":{"name":"spr_creature_jackolope","path":"sprites/spr_creature_jackolope/spr_creature_jackolope.yy",},"order":7,},
+    {"id":{"name":"spr_winmill_strut","path":"sprites/spr_winmill_strut/spr_winmill_strut.yy",},"order":24,},
     {"id":{"name":"spr_ui_gear_4","path":"sprites/spr_ui_gear_4/spr_ui_gear_4.yy",},"order":21,},
     {"id":{"name":"f_title","path":"fonts/f_title/f_title.yy",},"order":0,},
     {"id":{"name":"obj_lose","path":"objects/obj_lose/obj_lose.yy",},"order":13,},

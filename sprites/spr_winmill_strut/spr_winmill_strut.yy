@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 3,
-  "bbox_right": 379,
-  "bbox_top": 32,
-  "bbox_bottom": 383,
+  "bbox_left": 9,
+  "bbox_right": 118,
+  "bbox_top": 24,
+  "bbox_bottom": 39,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 384,
-  "height": 384,
+  "width": 128,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"7a0a98f0-7315-49ae-92fb-bb9c505be575","path":"sprites/spr_house/spr_house.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7a0a98f0-7315-49ae-92fb-bb9c505be575","path":"sprites/spr_house/spr_house.yy",},"LayerId":{"name":"45433564-36ab-407a-a76c-c43c6d45bf5b","path":"sprites/spr_house/spr_house.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_house","path":"sprites/spr_house/spr_house.yy",},"resourceVersion":"1.0","name":"7a0a98f0-7315-49ae-92fb-bb9c505be575","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8920298e-4206-438c-94fb-ad520236f323","path":"sprites/spr_winmill_strut/spr_winmill_strut.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8920298e-4206-438c-94fb-ad520236f323","path":"sprites/spr_winmill_strut/spr_winmill_strut.yy",},"LayerId":{"name":"34234078-0772-4d9b-b768-eb0835e58de3","path":"sprites/spr_winmill_strut/spr_winmill_strut.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_winmill_strut","path":"sprites/spr_winmill_strut/spr_winmill_strut.yy",},"resourceVersion":"1.0","name":"8920298e-4206-438c-94fb-ad520236f323","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_house","path":"sprites/spr_house/spr_house.yy",},
+    "spriteId": {"name":"spr_winmill_strut","path":"sprites/spr_winmill_strut/spr_winmill_strut.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"05d8de29-7f70-4f51-b506-5686598b1ae1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7a0a98f0-7315-49ae-92fb-bb9c505be575","path":"sprites/spr_house/spr_house.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"96957a36-60c0-4e84-80bb-07fdf14959d4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8920298e-4206-438c-94fb-ad520236f323","path":"sprites/spr_winmill_strut/spr_winmill_strut.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_house","path":"sprites/spr_house/spr_house.yy",},
+    "parent": {"name":"spr_winmill_strut","path":"sprites/spr_winmill_strut/spr_winmill_strut.yy",},
     "resourceVersion": "1.4",
-    "name": "spr_house",
+    "name": "spr_winmill_strut",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"45433564-36ab-407a-a76c-c43c6d45bf5b","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"34234078-0772-4d9b-b768-eb0835e58de3","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_house",
+  "name": "spr_winmill_strut",
   "tags": [],
   "resourceType": "GMSprite",
 }
