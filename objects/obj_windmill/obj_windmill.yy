@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "spr_creature_jackolope",
-    "path": "sprites/spr_creature_jackolope/spr_creature_jackolope.yy",
+    "name": "spr_windmill",
+    "path": "sprites/spr_windmill/spr_windmill.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_npc",
-    "path": "objects/obj_npc/obj_npc.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -25,7 +22,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -34,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_jackalope",
+  "name": "obj_windmill",
   "tags": [],
   "resourceType": "GMObject",
 }
