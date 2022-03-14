@@ -9,9 +9,8 @@ if keyboard_check(vk_left) x-= 4
 if keyboard_check(vk_up) y-= 4
 if keyboard_check(vk_down) y+= 4
 
-if(distance_to_object(obj_windmill) <= 10){
-	draw_set_halign(fa_center)
-	draw_text(room_width/2, room_height - 400, "Press E to insert parts")
-	//keyboard press check
-	//deposit parts
+nearWindmill = distance_to_object(obj_windmill) <= 10
+
+if nearWindmill and score == 4 and keyboard_check(ord("F")) {
+	global.win = true
 }
