@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 63,
-  "bbox_top": 0,
-  "bbox_bottom": 63,
+  "bbox_left": 3,
+  "bbox_right": 51,
+  "bbox_top": 12,
+  "bbox_bottom": 61,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"5ca314a2-1208-418a-bf5c-719222d03f04","path":"sprites/spr_tile_sandstoneblock/spr_tile_sandstoneblock.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5ca314a2-1208-418a-bf5c-719222d03f04","path":"sprites/spr_tile_sandstoneblock/spr_tile_sandstoneblock.yy",},"LayerId":{"name":"f954a4ed-c8cc-444b-b920-fe706eea5396","path":"sprites/spr_tile_sandstoneblock/spr_tile_sandstoneblock.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tile_sandstoneblock","path":"sprites/spr_tile_sandstoneblock/spr_tile_sandstoneblock.yy",},"resourceVersion":"1.0","name":"5ca314a2-1208-418a-bf5c-719222d03f04","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"eed91a8e-c641-4845-a5ac-bbe00eca9d51","path":"sprites/spr_windmill_capacitor/spr_windmill_capacitor.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"eed91a8e-c641-4845-a5ac-bbe00eca9d51","path":"sprites/spr_windmill_capacitor/spr_windmill_capacitor.yy",},"LayerId":{"name":"86c054da-7034-410b-9e62-c463ff5b089c","path":"sprites/spr_windmill_capacitor/spr_windmill_capacitor.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_windmill_capacitor","path":"sprites/spr_windmill_capacitor/spr_windmill_capacitor.yy",},"resourceVersion":"1.0","name":"eed91a8e-c641-4845-a5ac-bbe00eca9d51","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tile_sandstoneblock","path":"sprites/spr_tile_sandstoneblock/spr_tile_sandstoneblock.yy",},
+    "spriteId": {"name":"spr_windmill_capacitor","path":"sprites/spr_windmill_capacitor/spr_windmill_capacitor.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"91da253a-3379-4311-9bad-1c6c4197e74f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5ca314a2-1208-418a-bf5c-719222d03f04","path":"sprites/spr_tile_sandstoneblock/spr_tile_sandstoneblock.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ccc2a651-7167-4cdd-999c-2395c2a7a4e1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eed91a8e-c641-4845-a5ac-bbe00eca9d51","path":"sprites/spr_windmill_capacitor/spr_windmill_capacitor.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tile_sandstoneblock","path":"sprites/spr_tile_sandstoneblock/spr_tile_sandstoneblock.yy",},
+    "parent": {"name":"spr_windmill_capacitor","path":"sprites/spr_windmill_capacitor/spr_windmill_capacitor.yy",},
     "resourceVersion": "1.4",
-    "name": "spr_tile_sandstoneblock",
+    "name": "spr_windmill_capacitor",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f954a4ed-c8cc-444b-b920-fe706eea5396","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"86c054da-7034-410b-9e62-c463ff5b089c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_tile_sandstoneblock",
+  "name": "spr_windmill_capacitor",
   "tags": [],
   "resourceType": "GMSprite",
 }

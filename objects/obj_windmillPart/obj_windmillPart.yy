@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_windmillPart",
-    "path": "sprites/spr_windmillPart/spr_windmillPart.yy",
+    "name": "spr_windmill_core",
+    "path": "sprites/spr_windmill_core/spr_windmill_core.yy",
   },
   "solid": true,
   "visible": true,
