@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_creature_jimbob",
-    "path": "sprites/spr_creature_jimbob/spr_creature_jimbob.yy",
+    "name": "spr_creature_jackolope",
+    "path": "sprites/spr_creature_jackolope/spr_creature_jackolope.yy",
   },
   "solid": true,
   "visible": true,
@@ -33,7 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_jimbob",
+  "name": "obj_jackalopePath",
   "tags": [],
   "resourceType": "GMObject",
 }

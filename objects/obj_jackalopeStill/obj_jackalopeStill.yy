@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_creature_bobjim",
-    "path": "sprites/spr_creature_bobjim/spr_creature_bobjim.yy",
+    "name": "spr_creature_jackolope",
+    "path": "sprites/spr_creature_jackolope/spr_creature_jackolope.yy",
   },
   "solid": true,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_bobjim",
+  "name": "obj_jackalopeStill",
   "tags": [],
   "resourceType": "GMObject",
 }
