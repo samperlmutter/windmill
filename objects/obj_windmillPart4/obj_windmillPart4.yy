@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "spr_windmill",
-    "path": "sprites/spr_windmill/spr_windmill.yy",
+    "name": "spr_windmill_strut",
+    "path": "sprites/spr_windmill_strut/spr_windmill_strut.yy",
   },
   "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_windmillPart",
+    "path": "objects/obj_windmillPart/obj_windmillPart.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,9 +23,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -30,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_windmill",
+  "name": "obj_windmillPart4",
   "tags": [],
   "resourceType": "GMObject",
 }

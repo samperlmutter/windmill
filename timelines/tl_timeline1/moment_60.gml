@@ -1,1 +1,1 @@
-obj_jackalope.hspeed = 4
+obj_jackalope.hspeed = -2
