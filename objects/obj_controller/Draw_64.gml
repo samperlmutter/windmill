@@ -1,7 +1,4 @@
 /// @description Insert description here
-for(var i = 0; i < score; i++) {
-	draw_sprite(spr_windmill_core, 0, (45 + 25 * i), 50)
-}
 
 if(room == Room1) {
 	draw_set_halign(fa_left)
