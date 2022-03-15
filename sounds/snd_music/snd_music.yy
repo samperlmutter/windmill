@@ -1,7 +1,7 @@
 {
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.53,
+  "volume": 0.57,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -12,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_music.mp3",
-  "duration": 361.4302,
+  "duration": 58.0440826,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
