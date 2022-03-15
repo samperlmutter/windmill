@@ -1,15 +1,12 @@
 /// @description Insert description here
 
-//keep player in room 
-x = clamp(x, sprite_width/2, room_width-sprite_width/2)
-y = clamp(y, sprite_height/2, room_height-sprite_height/2)
 
 if keyboard_check(vk_right) {
-	x+= 4
+	x += 4
 	image_xscale = -1
 }
 if keyboard_check(vk_left) {
-	x-= 4
+	x -= 4
 	image_xscale = 1
 }
 if keyboard_check(vk_up) y-= 4
@@ -20,3 +17,7 @@ nearWindmill = distance_to_object(obj_windmill) <= 10
 if nearWindmill and score == 4 and keyboard_check(ord("F")) {
 	global.win = true
 }
+
+//keep player in room
+x = clamp(x, sprite_xoffset, room_width - abs(sprite_xoffset))
+y = clamp(y, sprite_yoffset, room_height - abs(sprite_yoffset))
