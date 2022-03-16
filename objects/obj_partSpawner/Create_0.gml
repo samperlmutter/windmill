@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Create windmill part at random location in room
 randomise()
 
 do {

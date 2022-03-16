@@ -1,2 +1,2 @@
-/// @description Insert description here
+/// @description Restart the game
 game_restart()

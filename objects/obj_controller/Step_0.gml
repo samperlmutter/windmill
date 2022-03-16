@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Tracking the win and lose conditions
 
 if (global.win == false) {
 	timer -= 1

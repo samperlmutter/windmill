@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Player controls
 
 
 if keyboard_check(vk_right) {

@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Draw the game HUD: the timer and parts counter
 
 if(room == Room1) {
 	draw_set_halign(fa_left)

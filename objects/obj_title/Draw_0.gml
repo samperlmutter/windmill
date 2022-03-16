@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Draw title screen text
 if room == rm_start then
 {
 	draw_set_halign(fa_center)
